@@ -1,0 +1,10 @@
+.card{
+    margin: 10px 0;
+}
+.label{
+    font-weight: bold;
+    color: #a9a9a9
+}
+.details-btn{
+    margin-right: 10px;
+}
